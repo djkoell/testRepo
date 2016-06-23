@@ -1,0 +1,13 @@
+
+
+Reflections on viewing diff between two versions help find bugs?
+
+I didn't have to get bogged down with all the content that was the same.  Eyes immediately pulled to the diffs.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+You can watch changes happen. 
+You can see who made changes.
+You can see how functions evolved.
+You can find out when a bug was introduced and understand if other things need to be rolled back...
